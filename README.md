@@ -1,30 +1,36 @@
 
-### Hi there, I'm SAAD ANSARI! 👋
-### 👋 Hello World! I'm [Your Name]
 
-Aspiring Frontend Developer passionate about crafting delightful and user-friendly web experiences. Currently on a journey of mastering the art of React.js 🚀. My code is a reflection of my creativity, attention to detail, and love for clean design.
+**About Me**
 
-### 💼 Seeking Exciting Opportunities
+* Frontend Developer
+* Looking for Job
+* Learning React.js
 
-I'm on the lookout for a challenging role where I can leverage my skills in frontend development to create innovative and responsive user interfaces. Let's build something amazing together! 🌟
+**Socials**
 
-### 🚀 What I Bring to the Table:
+* [Instagram](https://www.instagram.com/pratik778899)
+* [LinkedIn](https://www.linkedin.com/in/pratik778899)
+* [YouTube](https://www.youtube.com/pratik778899)
 
-- **Languages & Frameworks:** HTML, CSS, JavaScript (ES6+), React.js (in the learning process!)
-- **Tools & Technologies:** VS Code, Git, Responsive Web Design
-- **Design Philosophy:** Simplicity, Clarity, and a pinch of Wow!
+**Tech Stack**
 
-### 📚 Currently Learning:
+* CSS3
+* HTML5
+* JavaScript
+* AWS
+* Azure
+* Cloudflare
+* DigitalOcean
+* Glitch
+* Google Cloud
+* Heroku
+* Netlify
+* Vercel
+* React
+* Adobe Photoshop
+* Adobe Lightroom
+* Linux
 
-Enthusiastically diving into the React.js universe! Eager to harness its power to build dynamic and interactive user interfaces. Excited about the journey of turning ideas into reality through code.
+**GitHub Stats**
 
-### 🌐 Let's Connect:
-
-- [LinkedIn](your-linkedin-profile)
-- [Portfolio](link-to-portfolio)
-- [Twitter](your-twitter-profile)
-
-Looking forward to connecting with fellow developers, sharing knowledge, and exploring new opportunities. Let's code something awesome! 🚀✨
-
-
-
+[![Munaf Hajir](https://github-readme-stats.vercel.app/api?username=pratik778899)](https://github.com/pratik778899)
