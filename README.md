@@ -1,11 +1,9 @@
 [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)]
-
 <h1 align="center">Hi 👋, I'm Saad Ansari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 <img align="right" alt="code" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saadansari234" alt="saadansari234" /></a> </p>
 
 - 🌱 I’m currently learning **React js**
 
@@ -23,3 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadansari234&show_icons=true&locale=en&layout=compact" alt="saadansari234" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadansari234&show_icons=true&locale=en" alt="saadansari234" /></p>
+
